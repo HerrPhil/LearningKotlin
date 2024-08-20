@@ -13,3 +13,5 @@ I created the remote repository as per usual.
 Except, Android Studio created the .gitignore for Android.
 
 I skipped that file in the repository creation.
+
+test commit.
