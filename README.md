@@ -32,3 +32,11 @@ I will not be able to use Android Studio as a way to learn Kotlin.
 
 The average cost to upgrade to a modern MacBook Pro with enough memory
 is between $3,500 and $4,600.
+
+Here is the emulator tool command-line call to reveal the RAM requirements
+that an emulator has. The average memory demands of an emulator process
+is approximately 7.5 GB. The emulator name is whatever you call it when
+it is created in Android Studio. Spaces are replaced with underscores.
+
+/users/westworld/Library/Android/sdk/tools/emulator -avd Pixel_8_Pro_API_34 -verbose -show-kernel
+
