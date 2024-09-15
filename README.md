@@ -66,6 +66,8 @@ This solution makes sense to me. It is performant.
 
 Android Studio can recognize this is a Kotlin file, and can run it separately from the entire project.
 
+This one can be tracked in git. The other two file-based options do not.
+
 4. Use scratch + kotlin script
 
 This is handy for quickly trying out a few lines of code.
